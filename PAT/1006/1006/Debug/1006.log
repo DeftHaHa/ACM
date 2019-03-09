@@ -1,0 +1,6 @@
+﻿  1006.cpp
+e:\c_learning\pat\1006\1006\1006.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1006\1006\1006.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+  1006.vcxproj -> E:\C_learning\PAT\1006\Debug\1006.exe

@@ -1,0 +1,5 @@
+﻿  1061.cpp
+e:\c_learning\pat\1061\1061\1061.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+e:\c_learning\pat\1061\1061\1061.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+e:\c_learning\pat\1061\1061\1061.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+  1061.vcxproj -> E:\C_learning\PAT\1061\Debug\1061.exe

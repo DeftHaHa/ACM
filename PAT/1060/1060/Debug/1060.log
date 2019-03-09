@@ -1,0 +1,9 @@
+﻿  1060.cpp
+e:\c_learning\pat\1060\1060\1060.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1060\1060\1060.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1060\1060\1060.cpp(67): warning C4018: “<=”: 有符号/无符号不匹配
+e:\c_learning\pat\1060\1060\1060.cpp(70): error C2181: 没有匹配 if 的非法 else
+e:\c_learning\pat\1060\1060\1060.cpp(73): warning C4018: “<=”: 有符号/无符号不匹配
+e:\c_learning\pat\1060\1060\1060.cpp(76): warning C4018: “<=”: 有符号/无符号不匹配

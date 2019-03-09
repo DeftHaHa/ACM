@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\c_learning\contest\台州学院天体\7-11\7-11\源.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\contest\台州学院天体\7-11\7-11\源.cpp(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\contest\台州学院天体\7-11\7-11\源.cpp(69): warning C4018: “>”: 有符号/无符号不匹配
+  7-11.vcxproj -> E:\C_learning\contest\台州学院天体\7-11\Debug\7-11.exe

@@ -1,0 +1,4 @@
+1.dijkstra可以直接记录路径条数cnt[v]+=cnt[u];
+2.djkstra相同路径记录时，先修改路径(path[v]=u);后记录vector(如果要再次判断dist[v]和dist[u]+e[j].w的关系)，最后修改距离dist[v]。
+3.存储进制数用整型数组，因为可能大于9；
+4.数据输出格式05d%一类

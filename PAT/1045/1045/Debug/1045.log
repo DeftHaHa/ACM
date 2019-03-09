@@ -1,0 +1,6 @@
+﻿  1045.cpp
+e:\c_learning\pat\1045\1045\1045.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1045\1045\1045.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+  1045.vcxproj -> E:\C_learning\PAT\1045\Debug\1045.exe

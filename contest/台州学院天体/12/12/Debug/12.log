@@ -1,0 +1,4 @@
+﻿  12.cpp
+e:\c_learning\contest\台州学院天体\12\12\12.cpp(14): warning C4101: “ch”: 未引用的局部变量
+e:\c_learning\contest\台州学院天体\12\12\12.cpp(10): warning C4101: “j”: 未引用的局部变量
+  12.vcxproj -> E:\C_learning\contest\台州学院天体\12\Debug\12.exe

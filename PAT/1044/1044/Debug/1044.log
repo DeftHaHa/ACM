@@ -1,0 +1,4 @@
+﻿  1044.cpp
+e:\c_learning\pat\1044\1044\1044.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+  1044.vcxproj -> E:\C_learning\PAT\1044\Debug\1044.exe

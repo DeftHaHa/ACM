@@ -1,0 +1,7 @@
+﻿  1033.cpp
+e:\c_learning\pat\1033\1033\1033.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1033\1033\1033.cpp(25): error C2143: 语法错误 : 缺少“)”(在“!”的前面)
+e:\c_learning\pat\1033\1033\1033.cpp(25): error C2059: 语法错误:“>”
+e:\c_learning\pat\1033\1033\1033.cpp(25): error C2059: 语法错误:“)”
+e:\c_learning\pat\1033\1033\1033.cpp(26): error C2143: 语法错误 : 缺少“;”(在“{”的前面)

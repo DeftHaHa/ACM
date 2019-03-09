@@ -1,0 +1,7 @@
+﻿  1032.cpp
+e:\c_learning\pat\1.32\1.32\1032.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1.32\1.32\1032.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1.32\1.32\1032.cpp(17): warning C4101: “next”: 未引用的局部变量
+  1.32.vcxproj -> E:\C_learning\PAT\1.32\Debug\1.32.exe

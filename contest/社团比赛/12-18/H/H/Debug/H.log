@@ -1,0 +1,4 @@
+﻿  h.cpp
+e:\c_learning\contest\社团比赛\12-18\h\h\h.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+  H.vcxproj -> E:\C_learning\contest\社团比赛\12-18\H\Debug\H.exe

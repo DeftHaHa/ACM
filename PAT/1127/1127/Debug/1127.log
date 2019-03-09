@@ -1,0 +1,7 @@
+﻿  1127.cpp
+e:\c_learning\pat\1127\1127\1127.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1127\1127\1127.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          e:\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+e:\c_learning\pat\1127\1127\1127.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+  1127.vcxproj -> E:\C_learning\PAT\1127\Debug\1127.exe
